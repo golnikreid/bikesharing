@@ -32,3 +32,7 @@ This visualization displays the starting and ending locations as well as the con
 
 ## Summary
 From these visualization, we can see that the highest concentration of trips occurs at the start and end of the workday; roughly 8 AM and 5 PM. We can also see that the most trips occur on Thursday and by subcribers as opposed to customers. There seems to be a large distinction in trips for customers versus subscribers, it'd be helpful to delve into that and create a visualization that would show the numeric distinction in trip numbers for customers versus subscribers. In addition, while seeing the geographic concentration of trips is nice, it'd be helpful to examine the concentration at various times of the day as well.
+
+
+
+A link to the tableau sheets can be found [here](https://public.tableau.com/app/profile/reid.golnik)
